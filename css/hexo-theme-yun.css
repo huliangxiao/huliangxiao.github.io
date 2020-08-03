@@ -135,14 +135,14 @@ body::before {
   background-repeat: no-repeat;
   animation-name: bgFadeIn;
   animation-duration: 2s;
-  opacity: 1;
+  opacity: 0.2;
 }
 @-moz-keyframes bgFadeIn {
   from {
     opacity: 0;
   }
   to {
-    opacity: 1;
+    opacity: 0.2;
   }
 }
 @-webkit-keyframes bgFadeIn {
@@ -150,7 +150,7 @@ body::before {
     opacity: 0;
   }
   to {
-    opacity: 1;
+    opacity: 0.2;
   }
 }
 @-o-keyframes bgFadeIn {
@@ -158,7 +158,7 @@ body::before {
     opacity: 0;
   }
   to {
-    opacity: 1;
+    opacity: 0.2;
   }
 }
 @keyframes bgFadeIn {
@@ -166,7 +166,7 @@ body::before {
     opacity: 0;
   }
   to {
-    opacity: 1;
+    opacity: 0.2;
   }
 }
 :root {
@@ -1631,8 +1631,8 @@ body::before {
 #site-overview-wrap {
   padding-top: 2rem;
 }
-.site-info.fix-top {
-  margin-top: -1.5rem;
+.site-info.mickey-mouse {
+  margin-top: -2.8rem;
 }
 .site-author-avatar {
   display: inline-block;
@@ -1780,4 +1780,82 @@ body::before {
 }
 #say #say-from {
   display: block;
+}
+:root {
+  --hty-bg-color: #303030;
+  --hty-text-color: #f2f2f2;
+  --hty-secondary-text-color: #eee;
+  --banner-line-color: #fff;
+  --banner-char-color: #fff;
+  --post-block-bg-color: #1b1f2e;
+  --color-mode: 'dark';
+}
+::-webkit-input-placeholder {
+  color: #fff;
+}
+body {
+  color: var(--hty-text-color);
+}
+body::before {
+  background-image: url("/images/wall1.jpg");
+}
+.char {
+  background-color: rgba(0,0,0,0.5);
+}
+.char:hover {
+  color: #000;
+  background-color: var(--banner-char-color);
+}
+.sidebar {
+  background-color: rgba(27,31,46,0.95);
+  background-image: url("");
+}
+.search-popup {
+  background-image: url("https://cdn.jsdelivr.net/gh/YunYouJun/cdn/img/bg/mountain-blur-30px.jpg");
+}
+.post-title-link {
+  color: #3ca1ff;
+}
+.post-card {
+  color: #fff;
+  background-color: rgba(27,31,46,0.8);
+  box-shadow: 0 1px 8px rgba(27,31,46,0.1);
+}
+.post-block {
+  color: var(--hty-text-color);
+  background-color: rgba(27,31,46,0.95);
+}
+.page-number-basic {
+  background-color: rgba(0,0,0,0.5);
+}
+.pagination .prev,
+.pagination .next,
+.pagination .page-number,
+.pagination .space {
+  background-color: rgba(0,0,0,0.5);
+}
+.pagination .prev:hover,
+.pagination .next:hover,
+.pagination .page-number:hover,
+.pagination .space:hover {
+  background: rgba(199,228,255,0.9);
+}
+.pagination .prev:active,
+.pagination .next:active,
+.pagination .page-number:active,
+.pagination .space:active {
+  background: #0078e7;
+}
+.pagination .prev.current,
+.pagination .next.current,
+.pagination .page-number.current,
+.pagination .space.current {
+  background: rgba(227,242,255,0.9);
+  cursor: default;
+}
+#footer {
+  color: #eee;
+}
+.aplayer {
+  color: #000;
 }
