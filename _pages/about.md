@@ -17,7 +17,7 @@ redirect_from:
 Publications
 ======
 
-<img align="left" src="../images/GaussianAvatar.png" width="300"  style="padding-right: 20px;; padding-top:20px"/>
+<img align="left" src="../images/GaussianAvatar.png" width="300"  style="padding-right: 20px; padding-top:20px; padding-bottom:80px"/>
 
 <b>GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians</b><br>
 <b>Liangxiao Hu</b>, [Hongwen Zhang](https://zhanghongwen.cn/), [Yuxiang Zhang](https://zhangyux15.github.io/), [Boyao Zhou](https://morpheo.inrialpes.fr/people/zhou/), [Boning Liu](), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Liqiang Nie](https://liqiangnie.github.io/)<br>
