@@ -19,22 +19,18 @@ Publications
 
 
 
-<img align="left" src="../images/CaPhy.gif" width="320px" style="padding-right: 15px;padding-bottom: 80px ">**CaPhy: Capturing Physical Properties for Animatable Human Avatars**
-
-[Zhaoqi Su](https://suzhaoqi.github.io/), **Liangxiao Hu**, [Siyou Lin](https://jsnln.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Justus Thies](https://justusthies.github.io/), [Yebin Liu](http://www.liuyebin.com/)
-
+<img align="left" src="../images/CaPhy.gif" width="300"  style="padding-right: 20px;padding-bottom: 20px "><b>CaPhy: Capturing Physical Properties for Animatable Human Avatars</b>
+[Zhaoqi Su](https://suzhaoqi.github.io/), <b>Liangxiao Hu</b>, [Siyou Lin](https://jsnln.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Justus Thies](https://justusthies.github.io/), [Yebin Liu](http://www.liuyebin.com/)
 *In ICCV*, 2023
-
-[Project Page](https://suzhaoqi.github.io/projects/CaPhy/) / [arXiv](https://arxiv.org/abs/2308.05925) 
-
-
+[<i class="fas fa-fw fa-globe"></i>Project](https://suzhaoqi.github.io/projects/CaPhy/) /
+[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/abs/2308.05925)
 
 
+---
 
-<img align="left" src="../images/proxycap.png" width="320px"  style= "padding-right: 15px;padding-bottom: 80px ">**Real-time Monocular Full-body Capture in World Space via Sequential Proxy-to-Motion Learning**
-
+<img align="left" src="../images/proxycap.png" width="300px"  style= "padding-right: 20px;padding-bottom: 20px ">**Real-time Monocular Full-body Capture in World Space via Sequential Proxy-to-Motion Learning**
 [Yuxiang Zhang](https://zhangyux15.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), **Liangxiao Hu**, [Hongwei Yi](https://xyyhw.top/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Yebin Liu](http://www.liuyebin.com/)
-
+arXiv,  2023
 [Project Page](https://liuyebin.com/proxycap/) / [arXiv](https://arxiv.org/pdf/2307.01200.pdf) 
 
 
