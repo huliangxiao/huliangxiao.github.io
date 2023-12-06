@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Liangxiao Hu (胡良校)"
+title                    : "Liangxiao Hu (胡良校)'s Homepage"
 title_separator          : "-"
 name                     : &name "Liangxiao Hu"
-description              : &description ""
+description              : &description "Liangxiao Hu (胡良校)'s Homepage"
 url                      : https://huliangxiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huliangxiao/huliangxiao.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Phd student at HIT"
+  name             : "Liangxiao Hu"
   avatar           : "shuaihu.jpg"
-  bio              : "My current research focus is the digital human reconstruction."
+  bio              : "I am a Phd student at HIT, my current research focus is the digital human reconstruction."
   location         : "Beijing, China"
   employer         :
   pubmed           : 
