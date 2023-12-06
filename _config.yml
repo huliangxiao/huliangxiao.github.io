@@ -86,8 +86,8 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=TsXsZ3UAAAAJ"
+  email            : "lx.hu@hit.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
