@@ -24,7 +24,8 @@ Publications
 arXiv,  2023<br>
 [<i class="fas fa-fw fa-globe"></i>Project](https://huliangxiao.github.io/GaussianAvatar) /
 [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2312.02134.pdf) /
-[<i class="fas fa-fw fa-video"></i>Video](https://www.youtube.com/watch?v=a4g8Z9nCF-k)<br>
+[<i class="fas fa-fw fa-video"></i>Video](https://www.youtube.com/watch?v=a4g8Z9nCF-k)/
+[<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/huliangxiao/GaussianAvatar)<br>
 
 ---
 
