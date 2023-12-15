@@ -39,10 +39,10 @@ arXiv,  2023<br>
 
 ---
 
-<img align="left" src="../images/proxycap.png" width="300px"  style= "padding-right: 20px;padding-top: 20px ">
+<img align="left" src="../images/proxycap.jpg" width="300px"  style= "padding-right: 20px;padding-top: 20px; padding-bottom:80px ">
 
-<b>Real-time Monocular Full-body Capture in World Space via Sequential Proxy-to-Motion Learning</b><br>
-[Yuxiang Zhang](https://zhangyux15.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), <b>Liangxiao Hu</b>, [Hongwei Yi](https://xyyhw.top/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Yebin Liu](http://www.liuyebin.com/)<br>
+<b>ProxyCap: Real-time Monocular Full-body Capture in World Space via Human-Centric Proxy-to-Motion Learning</b><br>
+[Yuxiang Zhang](https://zhangyux15.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), <b>Liangxiao Hu</b>, Jiajun Zhang, [Hongwei Yi](https://xyyhw.top/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Yebin Liu](http://www.liuyebin.com/)<br>
 arXiv,  2023<br>
 [<i class="fas fa-fw fa-globe"></i>Project](https://liuyebin.com/proxycap/) /
 [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2307.01200.pdf)<br>
