@@ -17,7 +17,7 @@ redirect_from:
 Publications
 ======
 
-<img align="left" src="../images/GaussianAvatar.png" width="300"  style="padding-right: 20px; padding-top:20px; padding-bottom:80px"/>
+<img align="left" src="../images/gaussianavatar.gif" width="300"  style="padding-right: 20px;"/>
 
 <b>GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians</b><br>
 <b>Liangxiao Hu</b>, [Hongwen Zhang](https://zhanghongwen.cn/), [Yuxiang Zhang](https://zhangyux15.github.io/), [Boyao Zhou](https://morpheo.inrialpes.fr/people/zhou/), [Boning Liu](), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Liqiang Nie](https://liqiangnie.github.io/)<br>
@@ -29,7 +29,17 @@ arXiv,  2023<br>
 
 ---
 
-<img align="left" src="../images/CaPhy.gif" width="300"  style="padding-right: 20px;; padding-top:20px"/>
+<img align="left" src="../images/diffugesture.gif" width="300"  style="padding-right: 20px;"/>
+
+<b>The DiffuGesture entry to the GENEA Challenge 2023</b><br>
+Weiyu Zhao, <b>Liangxiao Hu</b>, [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping)<br>
+*In ICMI*, 2023<br>
+[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://openreview.net/forum?id=swc28UDR8Wk) \
+[<i class="fas fa-fw fa-video"></i>Video](https://www.youtube.com/watch?v=pFpZceVLpck)<br>
+
+---
+
+<img align="left" src="../images/CaPhy.gif" width="300"  style="padding-right: 20px;"/>
 
 <b>CaPhy: Capturing Physical Properties for Animatable Human Avatars</b><br>
 [Zhaoqi Su](https://suzhaoqi.github.io/), <b>Liangxiao Hu</b>, [Siyou Lin](https://jsnln.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Justus Thies](https://justusthies.github.io/), [Yebin Liu](http://www.liuyebin.com/)<br>
@@ -39,7 +49,7 @@ arXiv,  2023<br>
 
 ---
 
-<img align="left" src="../images/proxycap.jpg" width="300px"  style= "padding-right: 20px;padding-top: 20px; padding-bottom:80px ">
+<img align="left" src="../images/proxycap.gif" width="300px"  style= "padding-right: 20px;">
 
 <b>ProxyCap: Real-time Monocular Full-body Capture in World Space via Human-Centric Proxy-to-Motion Learning</b><br>
 [Yuxiang Zhang](https://zhangyux15.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), <b>Liangxiao Hu</b>, Jiajun Zhang, [Hongwei Yi](https://xyyhw.top/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Yebin Liu](http://www.liuyebin.com/)<br>
