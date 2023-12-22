@@ -31,11 +31,12 @@ arXiv,  2023<br>
 
 <img align="left" src="../images/diffugesture.gif" width="300"  style="padding-right: 20px;padding-top: 20px"/>
 
-<b>The DiffuGesture entry to the GENEA Challenge 2023</b><br>
+<b>The DiffuGesture entry to the GENEA Challenge 2023: Generating Human Gesture From Two-person Dialogue With Diffusion Models</b><br>
 Weiyu Zhao, <b>Liangxiao Hu</b>, [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping)<br>
 *In ICMI*, 2023<br>
 [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://openreview.net/forum?id=swc28UDR8Wk) /
 [<i class="fas fa-fw fa-video"></i>Video](https://www.youtube.com/watch?v=pFpZceVLpck)<br>
+
 
 ---
 
