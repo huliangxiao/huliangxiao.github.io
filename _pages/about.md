@@ -29,6 +29,16 @@ arXiv,  2023<br>
 
 ---
 
+<img align="left" src="../images/proxycap.gif" width="300px"  style= "padding-right: 20px;padding-top: 20px">
+
+<b>ProxyCap: Real-time Monocular Full-body Capture in World Space via Human-Centric Proxy-to-Motion Learning</b><br>
+[Yuxiang Zhang](https://zhangyux15.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), <b>Liangxiao Hu</b>, Jiajun Zhang, [Hongwei Yi](https://xyyhw.top/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Yebin Liu](http://www.liuyebin.com/)<br>
+arXiv,  2023<br>
+[<i class="fas fa-fw fa-globe"></i>Project](https://zhangyux15.github.io/ProxyCapV2/) /
+[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2307.01200.pdf)<br>
+
+---
+
 <img align="left" src="../images/diffugesture.gif" width="300"  style="padding-right: 20px;padding-top: 20px"/>
 
 <b>The DiffuGesture entry to the GENEA Challenge 2023: Generating Human Gesture From Two-person Dialogue With Diffusion Models</b><br>
@@ -48,13 +58,4 @@ Weiyu Zhao, <b>Liangxiao Hu</b>, [Shengping Zhang](http://homepage.hit.edu.cn/zh
 [<i class="fas fa-fw fa-globe"></i>Project](https://suzhaoqi.github.io/projects/CaPhy/) /
 [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/abs/2308.05925)<br>
 
----
-
-<img align="left" src="../images/proxycap.gif" width="300px"  style= "padding-right: 20px;padding-top: 20px">
-
-<b>ProxyCap: Real-time Monocular Full-body Capture in World Space via Human-Centric Proxy-to-Motion Learning</b><br>
-[Yuxiang Zhang](https://zhangyux15.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), <b>Liangxiao Hu</b>, Jiajun Zhang, [Hongwei Yi](https://xyyhw.top/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Yebin Liu](http://www.liuyebin.com/)<br>
-arXiv,  2023<br>
-[<i class="fas fa-fw fa-globe"></i>Project](https://liuyebin.com/proxycap/) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2307.01200.pdf)<br>
 
