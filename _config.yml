@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Liangxiao Hu (胡良校)'s Homepage"
 title_separator          : "-"
 name                     : &name "Liangxiao Hu"
-description              : "Liangxiao Hu (胡良校)'s Homepage"
+description              : &description "Liangxiao Hu (胡良校)'s Homepage"
 url                      : https://huliangxiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "huliangxiao/huliangxiao.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Liangxiao Hu"
   avatar           : "shuaihu.jpg"
-  bio              : "I am a Phd student at HIT, my current research focus is the digital human reconstruction."
+  bio              : "Ph.D. student at Harbin Institute of Technology"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "LiangxiaoH20666"
+  twitter          : LiangxiaoH20666
   vine             :
   weibo            :
   xing             :

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Projectpage of GaussianAvatar</title>
     <!-- Bootstrap -->
-    <link href="css/bootstrap-4.4.1.css" rel="stylesheet">
+    <link href="assets/GaussianAvatar/css/bootstrap-4.4.1.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
   </head>
 
@@ -62,7 +62,7 @@
           <h3>Abstract</h3>
             <hr style="margin-top:0px">
           <!-- <h6 style="color:#8899a5"> We present <b>Animatable Gaussians</b>, a new avatar representation<br> that leverages powerful 2D CNNs and explicit 3D Gaussian splatting for high-fidelity human avatar modeling.</h6> -->
-          	<img src="project_assets/GaussianAvatar/teaser.png" width="100%" alt=""/>
+          	<img src="assets/GaussianAvatar/teaser.png" width="100%" alt=""/>
               <!-- <br><br> -->
           <p class="text-left"> We present GaussianAvatar, an efficient approach to creating realistic human avatars with dynamic 3D appearances from a single video. We start by introducing animatable 3D Gaussians to explicitly represent humans in various poses and clothing styles. Such an explicit and animatable representation can fuse 3D appearances more efficiently and consistently from 2D observations. Our representation is further augmented with dynamic properties to support pose-dependent appearance modeling, where a dynamic appearance network along with an optimizable feature tensor is designed to learn the motion-to-appearance mapping. Moreover, by leveraging the differentiable motion condition, our method enables a joint optimization of motions and appearances during avatar modeling, which helps to tackle the long-standing issue of inaccurate motion estimation in monocular settings. The efficacy of GaussianAvatar is validated on both the public dataset and our collected dataset, demonstrating its superior performances in terms of appearance quality and rendering efficiency. 
             </p>
@@ -80,11 +80,11 @@
             <!-- <hr style="margin-top:0px"> -->
           <h6 style="color:#8899a5"> Sequence from <a href="https://github.com/apple/ml-neuman" target="_blank">NeuMan</a></h6>
             <video width="60%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-              <source src="project_assets/GaussianAvatar/bike.mp4" type="video/mp4">
+              <source src="assets/GaussianAvatar/bike.mp4" type="video/mp4">
             </video>
           <h6 style="color:#8899a5"> Sequence from proposed dataset</h6>
             <video width="55%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-              <source src="project_assets/GaussianAvatar/hlx.mp4" type="video/mp4">
+              <source src="assets/GaussianAvatar/hlx.mp4" type="video/mp4">
             </video>
               <!-- <br><br> -->
         </div>
@@ -101,14 +101,14 @@
             <!-- <hr style="margin-top:0px"> -->
           <h6 style="color:#8899a5"> Avatars animated by motions from <a href="https://google.github.io/aistplusplus_dataset/factsfigures.html" target="_blank">AIST++</a></h6>
             <video width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-              <source src="project_assets/GaussianAvatar/animate1.mp4" type="video/mp4">
+              <source src="assets/GaussianAvatar/animate1.mp4" type="video/mp4">
             </video>
             <video width="90%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-              <source src="project_assets/GaussianAvatar/animate2.mp4" type="video/mp4">
+              <source src="assets/GaussianAvatar/animate2.mp4" type="video/mp4">
             </video>
           <h6 style="color:#8899a5"> Avatars animated by other motions</h6>
             <video width="90%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="">
-              <source src="project_assets/GaussianAvatar/animate3.mp4" type="video/mp4">
+              <source src="assets/GaussianAvatar/animate3.mp4" type="video/mp4">
             </video>
               <!-- <br><br> -->
         </div>
@@ -122,7 +122,7 @@
       <div class="row">
           <div class="col-12 text-center">
             <h3>Method</h3>
-            <img src="project_assets/GaussianAvatar/method.png" width="100%" alt=""/>
+            <img src="assets/GaussianAvatar/method.png" width="100%" alt=""/>
             <p>&nbsp;</p>
             <p>
               <b>Illustration of the proposed method. Our method learns motion-to-appearance mapping by a dynamic appearance network and an optimizable feature tensor. The predicted point offsets, colors, and scales with fixed rotations and opacity constitute the animatable 3D Gaussians in canonical space. Following this, the 3D Gaussians undergo deformation into motion space via Linear Blend Skinning (LBS) and are subsequently rendered as images.
@@ -140,7 +140,7 @@
         <div class="col-12 text-center">
             <h3>Demo Video</h3>
             <hr style="margin-top:0px">
-            If the video does not play, please click <a href="project_assets/GaussianAvatar/demo.mp4" target="_blank">here</a> to watch it.
+            If the video does not play, please click <a href="assets/GaussianAvatar/demo.mp4" target="_blank">here</a> to watch it.
             <div class="embed-responsive embed-responsive-16by9">
                 <iframe style="clip-path: inset(1px 1px)" width="100%" height="100%" src="https://www.youtube.com/embed/a4g8Z9nCF-k?si=KSnWFFlXFPGMjt3w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
             </div>

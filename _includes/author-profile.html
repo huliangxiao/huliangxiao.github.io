@@ -106,6 +106,12 @@
       {% if author.googlescholar %}
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
+	  {% if author.resume_EN %}
+        <li><a href="{{ author.resume_EN }}"><i class="fas fa-fw fa-file-pdf"></i> Resume</a></li>
+      {% endif %}
+	  {% if author.resume_ZH %}
+        <li><a href="{{ author.resume_ZH }}"><i class="fas fa-fw fa-file-pdf"></i> 简历</a></li>
+      {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
