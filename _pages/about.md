@@ -105,5 +105,4 @@ Weiyu Zhao, <b>Liangxiao Hu</b>, [Shengping Zhang](http://homepage.hit.edu.cn/zh
 + National Scholarship, Ministry of Education of China, 2018
 
 ## Contact
-E-mail: [AT]hit.edu.cn<br>
-WeChat: Tau97_Zheng
+E-mail: lx.hu[AT]hit.edu.cn<br>
