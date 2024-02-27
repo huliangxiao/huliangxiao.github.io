@@ -62,7 +62,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 
 <b>GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians</b><br>
 <b>Liangxiao Hu</b>, [Hongwen Zhang](https://zhanghongwen.cn/), [Yuxiang Zhang](https://zhangyux15.github.io/), [Boyao Zhou](https://morpheo.inrialpes.fr/people/zhou/), [Boning Liu](), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Liqiang Nie](https://liqiangnie.github.io/)<br>
-arXiv,  2023<br>
+*In CVPR*,  2024<br>
 [<i class="fas fa-fw fa-globe"></i>Project](https://huliangxiao.github.io/GaussianAvatar) /
 [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2312.02134.pdf) /
 [<i class="fas fa-fw fa-video"></i>Video](https://www.youtube.com/watch?v=a4g8Z9nCF-k)/
@@ -74,7 +74,7 @@ arXiv,  2023<br>
 
 <b>ProxyCap: Real-time Monocular Full-body Capture in World Space via Human-Centric Proxy-to-Motion Learning</b><br>
 [Yuxiang Zhang](https://zhangyux15.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), <b>Liangxiao Hu</b>, Jiajun Zhang, [Hongwei Yi](https://xyyhw.top/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Yebin Liu](http://www.liuyebin.com/)<br>
-arXiv,  2023<br>
+*In CVPR*,  2024<br>
 [<i class="fas fa-fw fa-globe"></i>Project](https://zhangyux15.github.io/ProxyCapV2/) /
 [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2307.01200.pdf)<br>
 
