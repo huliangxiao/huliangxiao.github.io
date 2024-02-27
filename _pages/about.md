@@ -58,7 +58,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 
 ## Research
 
-<img align="left" src="../images/gaussianavatar.gif" width="300"  style="padding-right: 20px;padding-top: 20px;padding-bottom: 10px"/>
+<img align="left" src="../images/gaussianavatar.gif" width="300"  style="padding-right: 20px;padding-top: 30px"/>
 
 <b>GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians</b><br>
 <b>Liangxiao Hu</b>, [Hongwen Zhang](https://zhanghongwen.cn/), [Yuxiang Zhang](https://zhangyux15.github.io/), [Boyao Zhou](https://morpheo.inrialpes.fr/people/zhou/), [Boning Liu](), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Liqiang Nie](https://liqiangnie.github.io/)<br>
@@ -70,7 +70,7 @@ IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>),  2024<
 
 ---
 
-<img align="left" src="../images/proxycap.gif" width="300px"  style= "padding-right: 20px;padding-top: 20px;padding-bottom: 10px">
+<img align="left" src="../images/proxycap.gif" width="300"  style= "padding-right: 20px;padding-top: 30px;">
 
 <b>ProxyCap: Real-time Monocular Full-body Capture in World Space via Human-Centric Proxy-to-Motion Learning</b><br>
 [Yuxiang Zhang](https://zhangyux15.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), <b>Liangxiao Hu</b>, Jiajun Zhang, [Hongwei Yi](https://xyyhw.top/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Yebin Liu](http://www.liuyebin.com/)<br>
