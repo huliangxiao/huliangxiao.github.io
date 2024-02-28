@@ -61,7 +61,7 @@ Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
 <img align="left" src="../images/gaussianavatar.gif" width="300"  style="padding-right: 20px;padding-top: 30px;padding-bottom: 20px"/>
 
 <b>GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians</b><br>
-<b>Liangxiao Hu</b>, [Hongwen Zhang](https://zhanghongwen.cn/), [Yuxiang Zhang](https://zhangyux15.github.io/), [Boyao Zhou](https://morpheo.inrialpes.fr/people/zhou/), [Boning Liu](), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Liqiang Nie](https://liqiangnie.github.io/)<br>
+<b>Liangxiao Hu</b>, [Hongwen Zhang](https://zhanghongwen.cn/), [Yuxiang Zhang](https://zhangyux15.github.io/), [Boyao Zhou](https://yaourtb.github.io/), [Boning Liu](https://liuboning2.github.io/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Liqiang Nie](https://liqiangnie.github.io/)<br>
 IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>),  2024<br>
 [<i class="fas fa-fw fa-globe"></i>Project](https://huliangxiao.github.io/GaussianAvatar) /
 [<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2312.02134.pdf) /
