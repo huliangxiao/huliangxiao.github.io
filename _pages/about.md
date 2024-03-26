@@ -12,6 +12,7 @@ redirect_from:
 * M.S. in Computer Science and Technology, Harbin Institute of Technology, 2021
 * Ph.D. in Computer Science and Technology, Harbin Institute of Technology, 2025 (expected) -->
 Hi, this is Liangxiao Hu. I am a third-year (2021~) Ph.D. student in Faculty of Computing, Harbin Institute of Technology, advised by Prof. [Shengping Zhang](https://homepage.hit.edu.cn/zhangshengping).
+I was a research intern at 3D Vision and Computational Photography Group in Tsinghua University, under the guidance of Prof. [Yebin Liu](https://liuyebin.com/). 
 My research focuses on **human-centered computer vision**, including motion capture, audio/text-driven human motion synthesis and the synthesis of digital humans, etc.
 
 
