@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>{{ site.title | escape }}</title>
+  <meta name="description" content="{{ site.description | escape }}">
+  <link rel="canonical" href="{{ '/' | absolute_url }}">
+  <meta property="og:title" content="{{ site.title | escape }}">
+  <meta property="og:description" content="{{ site.description | escape }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ '/' | absolute_url }}">
+  <meta property="og:image" content="{{ '/images/shuaihu.jpg' | absolute_url }}">
+  <link rel="icon" href="{{ '/images/shuaihu.jpg' | relative_url }}" type="image/jpeg">
+  <script>
+    try {
+      var theme = localStorage.getItem('homepage-theme');
+      if (theme === 'light' || theme === 'dark') document.documentElement.dataset.theme = theme;
+    } catch (error) { /* System theme remains available without storage. */ }
+  </script>
+  <link rel="stylesheet" href="{{ '/assets/css/home-fonts.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url }}">
+  <script src="{{ '/assets/js/home.js' | relative_url }}" defer></script>
+</head>
+<body id="top">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="page">
+    <aside class="sidebar" aria-label="Profile">
+      <div class="sidebar-inner">
+        <div class="hero-avatar-wrap">
+          <img class="hero-avatar" src="{{ site.author.avatar | prepend: '/images/' | relative_url }}" alt="{{ site.author.name | escape }}" width="1080" height="1080" decoding="async" fetchpriority="high">
+        </div>
+        <h1>{{ site.author.name }}</h1>
+        <p class="name-cn" lang="zh-CN">胡良校</p>
+        <p class="sidebar-role">Ph.D. Student</p>
+        <p class="sidebar-affil">Faculty of Computing<br>Harbin Institute of Technology</p>
+        <p class="sidebar-email"><a href="mailto:{{ site.author.email }}"><svg class="link-icon" aria-hidden="true" focusable="false"><use href="{{ '/assets/icons/home.svg' | relative_url }}#email"></use></svg><span>{{ site.author.email }}</span></a></p>
+        <p class="sidebar-wechat"><a class="wechat-link" href="{{ '/images/wechat.jpg' | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="WeChat: view QR code" aria-describedby="wechat-qr"><span class="link-icon wechat-icon" aria-hidden="true"></span><span>WeChat</span></a><span class="wechat-qr" id="wechat-qr" role="tooltip"><img src="{{ '/images/wechat.jpg' | relative_url }}" alt="Liangxiao Hu WeChat QR code" width="888" height="1131" decoding="async"></span></p>
+        <p class="sidebar-links">
+          [<a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener noreferrer">Google Scholar</a>]
+          [<a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener noreferrer">GitHub</a>]
+        </p>
+        <nav class="side-nav" aria-label="Sections">
+          <p class="side-nav-title">Contents</p>
+          <ul>
+            <li><a href="#top">Top</a></li>
+            <li><a href="#about">Short Bio</a></li>
+            <li><a href="#projects">Selected Projects</a></li>
+            <li><a href="#research">Publications</a></li>
+            <li><a href="#background">Experiences</a></li>
+            <li><a href="#talk">Talks</a></li>
+            <li><a href="#award">Awards</a></li>
+          </ul>
+        </nav>
+      </div>
+    </aside>
+    <div class="main-wrap">
+      <main id="main" class="main" tabindex="-1">
+        {{ content }}
+        <footer class="site-footer">© {{ site.time | date: '%Y' }} {{ site.author.name }}</footer>
+      </main>
+    </div>
+  </div>
+</body>
+</html>

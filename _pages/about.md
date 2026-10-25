@@ -1,109 +1,136 @@
 ---
+layout: home
 permalink: /
-title:
-excerpt:
-author_profile: true
-redirect_from: 
+title: Liangxiao Hu
+excerpt: Human-centered computer vision, motion capture, human motion synthesis, and digital humans.
+author_profile: false
+redirect_from:
   - /about/
   - /about.html
 ---
 
-<!-- * B.S. in Communication Engineering, Hefei University of Technology, 2019
-* M.S. in Computer Science and Technology, Harbin Institute of Technology, 2021
-* Ph.D. in Computer Science and Technology, Harbin Institute of Technology, 2025 (expected) -->
-Hi, this is Liangxiao Hu. I am a third-year (2021~) Ph.D. student in Faculty of Computing, Harbin Institute of Technology, advised by Prof. [Shengping Zhang](https://homepage.hit.edu.cn/zhangshengping).
-I was a research intern at 3D Vision and Computational Photography Group in Tsinghua University, under the guidance of Prof. [Yebin Liu](https://liuyebin.com/). 
-My research focuses on **human-centered computer vision**, including motion capture, audio/text-driven human motion synthesis and the synthesis of digital humans, etc.
+<section id="about" aria-labelledby="about-heading">
+  <div class="section-head"><h2 id="about-heading">Short Bio</h2><button id="theme-toggle" class="theme-btn" type="button" hidden>Theme: Auto</button></div>
+  <div class="prose"><p>Hi, this is Liangxiao Hu. I am a final-year (2021~) Ph.D. student in Faculty of Computing, Harbin Institute of Technology, advised by Prof. <a href="https://homepage.hit.edu.cn/zhangshengping"><strong>Shengping Zhang</strong></a>. I was a research intern at 3D Vision and Computational Photography Group in Tsinghua University, under the guidance of Prof. <a href="https://liuyebin.com/"><strong>Yebin Liu</strong></a>. My research focuses on <strong>human-centered computer vision</strong> and <strong>embodied AI</strong>, including motion capture, human motion synthesis, digital human synthesis, and video models for embodied intelligence. Now I work as a research intern at the Interactive Intelligence Lab, <a href="https://www.antresearch.com/">Ant Research</a>, and also work for <a href="https://www.robbyant.com/">Robbyant</a>, both under the mentorship of <a href="https://felixcheng97.github.io/"><strong>Ka Leong Cheng</strong></a> and <a href="https://yaourtb.github.io/"><strong>Boyao Zhou</strong></a>.</p></div>
+</section>
 
+<section id="projects" aria-labelledby="projects-heading">
+  <h2 id="projects-heading">Selected Projects</h2>
+  <ul class="text-list">
+    <li><a href="https://technology.robbyant.com/lingbot-world" target="_blank" rel="noopener noreferrer"><strong>LingBot-World 1.0</strong></a> — Contribution: Game Data Collection</li>
+    <li><a href="https://technology.robbyant.com/lingbot-world-v2" target="_blank" rel="noopener noreferrer"><strong>LingBot-World 2.0</strong></a> — Contribution: Game Data Collection</li>
+  </ul>
+</section>
 
-## Background
-
-<div>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
-<tr>
-<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="80" src="../images/hit.png"/> 
-</td>
-<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
-Ph.D. Student. Sep. 2021 - Jun. 2025 (Expected)<br>
-<a href="https://encs.hit.edu.cn//">Faculty of Computing</a><br>
-<a href="http://en.hit.edu.cn/">Harbin Institute of Technology</a><br>
-</td>
-</tr>
-
-<tr>
-<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="80" src="../images/hit.png"/> 
-</td>
-<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
-Master of Engineering. Sep. 2019 - Jun. 2021<br>
-<a href="https://cst.hitwh.edu.cn//">School of Computer Science and Technology</a><br>
-<a href="https://www.hitwh.edu.cn/">Harbin Institute of Technology (Weihai)</a><br>
-</td>
-</tr>
-
-<tr>
-<td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="80" src="../images/hfut.jpeg"/> 
-</td>
-<td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
-Bachelor of Engineering. Sep. 2015 - Jun. 2019<br>
-<a href="https://ci.hfut.edu.cn/English/Home.htm">School of Computer Science and Information Engineering</a><br>
-<a href="https://www.hfut.edu.cn/">Hefei University of Technology</a><br>
-</td>
-</tr>
-</table>    
+<section id="research" aria-labelledby="publications-heading">
+  <h2 id="publications-heading">Publications</h2>
+  <div class="publications-root">
+<div class="publication-year">
+<h3 class="pub-year-heading">2026</h3>
+<ul class="research-list">
+<li class="pub-entry">
+  <div class="pub-thumb"><video style="display: block; width: 100%; height: auto;" autoplay muted loop playsinline controls preload="metadata" aria-label="LingBot-Video research preview"><source src="{{ '/images/lingbot-video.mp4' | relative_url }}" type="video/mp4">Your browser does not support video playback.</video></div>
+  <div class="pub-main">
+    <h4 class="pub-title">LingBot-Video: Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence</h4>
+    <p class="pub-authors"><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Ma,+S">Shuailei Ma</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Liao,+J">Jiaqi Liao</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Wang,+X">Xinyang Wang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Wang,+J">Jingjing Wang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Feng,+C">Chaoran Feng</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Hu,+Z">Zijing Hu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Bao,+C">Chong Bao</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Xi,+Z">Zichen Xi</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Gan,+Y">Yuqi Gan</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Wang,+W">Weisen Wang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zeng,+Y">Yanhong Zeng</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhao,+Q">Qin Zhao</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Shi,+Z">Zifan Shi</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Wu,+W">Wei Wu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Ouyang,+H">Hao Ouyang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Wang,+Q">Qiuyu Wang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhang,+S">Shangzhan Zhang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Shao,+J">Jiahao Shao</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Sun,+Y">Yipengjing Sun</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Hu,+L"><strong>Liangxiao Hu</strong></a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Pan,+L">Lunke Pan</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Xue,+N">Nan Xue</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zheng,+K">Kecheng Zheng</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Xu,+Y">Yinghao Xu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhu,+X">Xing Zhu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Shen,+Y">Yujun Shen</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Cheng,+K+L">Ka Leong Cheng</a></p>
+    <p class="pub-venue">arXiv, 2026</p>
+    <div class="pub-links" aria-label="Publication links"><a href="https://technology.robbyant.com/lingbot-video" target="_blank" rel="noopener noreferrer">Project</a><span class="pub-link-separator" aria-hidden="true">·</span><a href="https://arxiv.org/abs/2607.07675" target="_blank" rel="noopener noreferrer">Paper</a></div>
+  </div>
+</li>
+<li class="pub-entry">
+  <div class="pub-thumb"><video style="display: block; width: 100%; height: auto;" autoplay muted loop playsinline controls preload="metadata" aria-label="LingBot-Map research preview"><source src="{{ '/images/lingbot-map.mp4' | relative_url }}" type="video/mp4">Your browser does not support video playback.</video></div>
+  <div class="pub-main">
+    <h4 class="pub-title">LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction</h4>
+    <p class="pub-authors"><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Chen,+L">Lin-Zhuo Chen</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Gao,+J">Jian Gao</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhang,+S">Shangzhan Zhang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Chen,+Y">Yihang Chen</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Cheng,+K+L">Ka Leong Cheng</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Sun,+Y">Yipengjing Sun</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Hu,+L"><strong>Liangxiao Hu</strong></a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Xue,+N">Nan Xue</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhu,+X">Xing Zhu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Shen,+Y">Yujun Shen</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Yao,+Y">Yao Yao</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Xu,+Y">Yinghao Xu</a></p>
+    <p class="pub-venue">arXiv, 2026</p>
+    <div class="pub-links" aria-label="Publication links"><a href="https://technology.robbyant.com/lingbot-map" target="_blank" rel="noopener noreferrer">Project</a><span class="pub-link-separator" aria-hidden="true">·</span><a href="https://arxiv.org/abs/2604.14141" target="_blank" rel="noopener noreferrer">Paper</a></div>
+  </div>
+</li>
+<li class="pub-entry">
+  <div class="pub-thumb"><img src="{{ '/images/dialogen.png' | relative_url }}" alt="DialoGen dialog gesture generation research preview" width="668" height="420" loading="lazy" decoding="async"></div>
+  <div class="pub-main">
+    <h4 class="pub-title">DialoGen: Towards Dialog Gesture Generation via Identity-Decoupled Style Guidance in Interactive Diffusion Model</h4>
+    <p class="pub-authors">Weiyu Zhao, Chenyang Wang, <strong>Liangxiao Hu</strong>, Zonglin Li, Wei Yu, Shengping Zhang</p>
+    <p class="pub-venue"><a href="https://ojs.aaai.org/index.php/AAAI/index" target="_blank" rel="noopener noreferrer">Proceedings of the AAAI Conference on Artificial Intelligence</a> (<b>AAAI</b>), 2026 <span class="pub-highlight">(Oral)</span></p>
+    <div class="pub-links" aria-label="Publication links"><a href="https://ojs.aaai.org/index.php/AAAI/article/view/38327" target="_blank" rel="noopener noreferrer">Paper</a></div>
+  </div>
+</li>
+<li class="pub-entry">
+  <div class="pub-thumb"><video style="display: block; width: 100%; height: auto;" autoplay muted loop playsinline controls preload="metadata" poster="{{ '/images/uika.png' | relative_url }}" aria-label="Uika input number analysis"><source src="{{ '/images/uika.mp4' | relative_url }}" type="video/mp4">Your browser does not support video playback.</video></div>
+  <div class="pub-main">
+    <h4 class="pub-title">Uika: Fast universal head avatar from pose-free images</h4>
+    <p class="pub-authors"><a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Wu,+Z">Zijian Wu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhou,+B">Boyao Zhou</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Hu,+L"><strong>Liangxiao Hu</strong></a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Liu,+H">Hongyu Liu</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Sun,+Y">Yuan Sun</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Wang,+X">Xuan Wang</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Cao,+X">Xun Cao</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Shen,+Y">Yujun Shen</a>, <a href="https://arxiv.org/search/cs?searchtype=author&amp;query=Zhu,+H">Hao Zhu</a></p>
+    <p class="pub-venue">IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2026 <span class="pub-highlight">(Highlight)</span></p>
+    <div class="pub-links" aria-label="Publication links"><a href="https://zijian-wu.github.io/uika-page/" target="_blank" rel="noopener noreferrer">Project</a><span class="pub-link-separator" aria-hidden="true">·</span><a href="https://arxiv.org/abs/2601.07603" target="_blank" rel="noopener noreferrer">Paper</a></div>
+  </div>
+</li>
+</ul>
 </div>
+<div class="publication-year"><h3 class="pub-year-heading">2024</h3><ul class="research-list">
+<li class="pub-entry"><div class="pub-thumb"><img src="{{ '/images/gaussianavatar.gif' | relative_url }}" alt="GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians — research preview" loading="lazy" decoding="async"></div><div class="pub-main"><h4 class="pub-title">GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians</h4><p class="pub-authors"><b>Liangxiao Hu</b>, <a href="https://zhanghongwen.cn/">Hongwen Zhang</a>, <a href="https://zhangyux15.github.io/">Yuxiang Zhang</a>, <a href="https://yaourtb.github.io/">Boyao Zhou</a>, <a href="https://liuboning2.github.io/">Boning Liu</a>, <a href="http://homepage.hit.edu.cn/zhangshengping">Shengping Zhang</a>, <a href="https://liqiangnie.github.io/">Liqiang Nie</a></p><p class="pub-venue">IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>),  2024</p><div class="pub-links" aria-label="Publication links"><a href="https://huliangxiao.github.io/GaussianAvatar" target="_blank" rel="noopener noreferrer">Project</a><span class="pub-link-separator" aria-hidden="true">·</span><a href="https://arxiv.org/pdf/2312.02134.pdf" target="_blank" rel="noopener noreferrer">Paper</a><span class="pub-link-separator" aria-hidden="true">·</span><a href="https://www.youtube.com/watch?v=a4g8Z9nCF-k" target="_blank" rel="noopener noreferrer">Video</a><span class="pub-link-separator" aria-hidden="true">·</span><a href="https://github.com/huliangxiao/GaussianAvatar" target="_blank" rel="noopener noreferrer">Code</a></div></div></li>
+<li class="pub-entry"><div class="pub-thumb"><img src="{{ '/images/proxycap.gif' | relative_url }}" alt="ProxyCap: Real-time Monocular Full-body Capture in World Space via Human-Centric Proxy-to-Motion Learning — research preview" loading="lazy" decoding="async"></div><div class="pub-main"><h4 class="pub-title">ProxyCap: Real-time Monocular Full-body Capture in World Space via Human-Centric Proxy-to-Motion Learning</h4><p class="pub-authors"><a href="https://zhangyux15.github.io/">Yuxiang Zhang</a>, <a href="https://hongwenzhang.github.io/">Hongwen Zhang</a>, <b>Liangxiao Hu</b>, Jiajun Zhang, <a href="https://xyyhw.top/">Hongwei Yi</a>, <a href="http://homepage.hit.edu.cn/zhangshengping">Shengping Zhang</a>, <a href="http://www.liuyebin.com/">Yebin Liu</a></p><p class="pub-venue">IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>),  2024</p><div class="pub-links" aria-label="Publication links"><a href="https://zhangyux15.github.io/ProxyCapV2/" target="_blank" rel="noopener noreferrer">Project</a><span class="pub-link-separator" aria-hidden="true">·</span><a href="https://arxiv.org/pdf/2307.01200.pdf" target="_blank" rel="noopener noreferrer">Paper</a></div></div></li>
+</ul></div>
+<div class="publication-year"><h3 class="pub-year-heading">2023</h3><ul class="research-list">
+<li class="pub-entry"><div class="pub-thumb"><img src="{{ '/images/diffugesture.gif' | relative_url }}" alt="The DiffuGesture entry to the GENEA Challenge 2023: Generating Human Gesture From Two-person Dialogue With Diffusion Models — research preview" loading="lazy" decoding="async"></div><div class="pub-main"><h4 class="pub-title">The DiffuGesture entry to the GENEA Challenge 2023: Generating Human Gesture From Two-person Dialogue With Diffusion Models</h4><p class="pub-authors">Weiyu Zhao, <b>Liangxiao Hu</b>, <a href="http://homepage.hit.edu.cn/zhangshengping">Shengping Zhang</a></p><p class="pub-venue">ACM International Conference on Multimodal Interaction (<b>ICMI</b>), 2023 Workshop</p><div class="pub-links" aria-label="Publication links"><a href="https://openreview.net/forum?id=swc28UDR8Wk" target="_blank" rel="noopener noreferrer">Paper</a><span class="pub-link-separator" aria-hidden="true">·</span><a href="https://www.youtube.com/watch?v=pFpZceVLpck" target="_blank" rel="noopener noreferrer">Video</a></div></div></li>
+<li class="pub-entry"><div class="pub-thumb"><img src="{{ '/images/CaPhy.gif' | relative_url }}" alt="CaPhy: Capturing Physical Properties for Animatable Human Avatars — research preview" loading="lazy" decoding="async"></div><div class="pub-main"><h4 class="pub-title">CaPhy: Capturing Physical Properties for Animatable Human Avatars</h4><p class="pub-authors"><a href="https://suzhaoqi.github.io/">Zhaoqi Su</a>, <b>Liangxiao Hu</b>, <a href="https://jsnln.github.io/">Siyou Lin</a>, <a href="https://hongwenzhang.github.io/">Hongwen Zhang</a>, <a href="http://homepage.hit.edu.cn/zhangshengping">Shengping Zhang</a>, <a href="https://justusthies.github.io/">Justus Thies</a>, <a href="http://www.liuyebin.com/">Yebin Liu</a></p><p class="pub-venue">IEEE International Conference on Computer Vision (<b>ICCV</b>), 2023</p><div class="pub-links" aria-label="Publication links"><a href="https://suzhaoqi.github.io/projects/CaPhy/" target="_blank" rel="noopener noreferrer">Project</a><span class="pub-link-separator" aria-hidden="true">·</span><a href="https://arxiv.org/abs/2308.05925" target="_blank" rel="noopener noreferrer">Paper</a></div></div></li>
+</ul></div>
+</div>
+</section>
 
+<section id="background" aria-labelledby="background-heading">
+  <h2 id="background-heading">Experiences</h2>
+  <ul class="education-list">
+    <li class="education-entry">
+      <img class="education-logo" src="{{ '/images/logo/robbyant.png' | relative_url }}" alt="Robbyant" width="2328" height="628" decoding="async">
+      <div>
+        <h3><a href="https://www.robbyant.com">Robbyant</a></h3>
+        <p>Sep. 2026 – Present</p>
+        <p>Research Intern</p>
+      </div>
+    </li>
+    <li class="education-entry">
+      <img class="education-logo" src="{{ '/images/logo/antresearch.png' | relative_url }}" alt="Ant Research" width="1254" height="1254" decoding="async">
+      <div>
+        <h3><a href="https://www.antresearch.com">Ant Research</a></h3>
+        <p>Aug. 2025 – Present</p>
+        <p>Research Intern</p>
+      </div>
+    </li>
+    <li class="education-entry">
+      <img class="education-logo" src="{{ '/images/logo/tsinghua.png' | relative_url }}" alt="Tsinghua University" width="1024" height="1024" decoding="async">
+      <div>
+        <h3><a href="https://www.tsinghua.edu.cn/en">Tsinghua University</a></h3>
+        <p>Feb. 2023 – Aug. 2024</p>
+        <p>Research Intern</p>
+      </div>
+    </li>
+    <li class="education-entry">
+      <img class="education-logo" src="{{ '/images/logo/hit.png' | relative_url }}" alt="Harbin Institute of Technology" width="300" height="300" decoding="async">
+      <div>
+        <h3><a href="http://en.hit.edu.cn">Harbin Institute of Technology</a></h3>
+        <!-- <p><a href="https://encs.hit.edu.cn">Faculty of Computing</a></p> -->
+        <p class="degree">Sep. 2021 – Present · Ph.D. Student</p>
+        <p>Sep. 2019–Jun. 2021 · Master of Engineering</p>
+      </div>
+    </li>
+    <li class="education-entry">
+      <img class="education-logo" src="{{ '/images/logo/hfut.png' | relative_url }}" alt="Hefei University of Technology" width="1261" height="1247" decoding="async">
+      <div>
+        <h3><a href="https://www.hfut.edu.cn">Hefei University of Technology</a></h3>
+        <!-- <p><a href="https://ci.hfut.edu.cn/English/Home.htm">School of Computer Science and Information Engineering</a></p> -->
+        <p>Sep. 2015 – Jun. 2019</p>
+        <p>Bachelor of Engineering</p>
+      </div>
+    </li>
+  </ul>
+</section>
 
+<section id="award" aria-labelledby="awards-heading">
+  <h2 id="awards-heading">Awards</h2>
+  <ul class="text-list"><li>National Scholarship, Ministry of Education of China, 2018</li></ul>
+</section>
 
-## Research
-
-<img align="left" src="../images/gaussianavatar.gif" width="300"  style="padding-right: 20px;padding-top: 30px;padding-bottom: 20px"/>
-
-<b>GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians</b><br>
-<b>Liangxiao Hu</b>, [Hongwen Zhang](https://zhanghongwen.cn/), [Yuxiang Zhang](https://zhangyux15.github.io/), [Boyao Zhou](https://yaourtb.github.io/), [Boning Liu](https://liuboning2.github.io/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Liqiang Nie](https://liqiangnie.github.io/)<br>
-IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>),  2024<br>
-[<i class="fas fa-fw fa-globe"></i>Project](https://huliangxiao.github.io/GaussianAvatar) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2312.02134.pdf) /
-[<i class="fas fa-fw fa-video"></i>Video](https://www.youtube.com/watch?v=a4g8Z9nCF-k)/
-[<i class="fab fa-fw fa-github fa-github"></i>Code](https://github.com/huliangxiao/GaussianAvatar)<br>
-
----
-
-<img align="left" src="../images/proxycap.gif" width="300"  style= "padding-right: 20px;padding-top: 30px;padding-bottom: 20px">
-
-<b>ProxyCap: Real-time Monocular Full-body Capture in World Space via Human-Centric Proxy-to-Motion Learning</b><br>
-[Yuxiang Zhang](https://zhangyux15.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), <b>Liangxiao Hu</b>, Jiajun Zhang, [Hongwei Yi](https://xyyhw.top/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Yebin Liu](http://www.liuyebin.com/)<br>
-IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>),  2024<br>
-[<i class="fas fa-fw fa-globe"></i>Project](https://zhangyux15.github.io/ProxyCapV2/) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/pdf/2307.01200.pdf)<br>
-
----
-
-<img align="left" src="../images/diffugesture.gif" width="300"  style="padding-right: 20px;padding-top: 20px"/>
-
-<b>The DiffuGesture entry to the GENEA Challenge 2023: Generating Human Gesture From Two-person Dialogue With Diffusion Models</b><br>
-Weiyu Zhao, <b>Liangxiao Hu</b>, [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping)<br>
-ACM International Conference on Multimodal Interaction (<b>ICMI</b>), 2023 Workshop<br>
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://openreview.net/forum?id=swc28UDR8Wk) /
-[<i class="fas fa-fw fa-video"></i>Video](https://www.youtube.com/watch?v=pFpZceVLpck)<br>
-
-
----
-
-<img align="left" src="../images/CaPhy.gif" width="300"  style="padding-right: 20px;padding-top: 20px"/>
-
-<b>CaPhy: Capturing Physical Properties for Animatable Human Avatars</b><br>
-[Zhaoqi Su](https://suzhaoqi.github.io/), <b>Liangxiao Hu</b>, [Siyou Lin](https://jsnln.github.io/), [Hongwen Zhang](https://hongwenzhang.github.io/), [Shengping Zhang](http://homepage.hit.edu.cn/zhangshengping), [Justus Thies](https://justusthies.github.io/), [Yebin Liu](http://www.liuyebin.com/)<br>
-IEEE International Conference on Computer Vision (<b>ICCV</b>), 2023<br>
-[<i class="fas fa-fw fa-globe"></i>Project](https://suzhaoqi.github.io/projects/CaPhy/) /
-[<i class="fas fa-fw fa-file-pdf"></i>Paper](https://arxiv.org/abs/2308.05925)<br>
-
-
-
-## Award
-+ National Scholarship, Ministry of Education of China, 2018
-
-## Contact
-E-mail: lx.hu[AT]hit.edu.cn<br>
+<section id="talk" aria-labelledby="talks-heading">
+  <h2 id="talks-heading">Talks</h2>
+  <ul class="text-list"><li lang="zh-CN">GaussianAvatar：基于可驱动3D高斯的人体数字化身建模 (<a href="https://www.shenlanxueyuan.com/open/course/229" target="_blank" rel="noopener noreferrer">深蓝学院</a>)</li></ul>
+</section>
