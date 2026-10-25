@@ -84,7 +84,7 @@ redirect_from:
       <img class="education-logo" src="{{ '/images/logo/robbyant.png' | relative_url }}" alt="Robbyant" width="2328" height="628" decoding="async">
       <div>
         <h3><a href="https://www.robbyant.com">Robbyant</a></h3>
-        <p>Sep. 2026 – Present</p>
+        <p>Oct. 2025 – Present</p>
         <p>Research Intern</p>
       </div>
     </li>
@@ -92,7 +92,7 @@ redirect_from:
       <img class="education-logo" src="{{ '/images/logo/antresearch.png' | relative_url }}" alt="Ant Research" width="1254" height="1254" decoding="async">
       <div>
         <h3><a href="https://www.antresearch.com">Ant Research</a></h3>
-        <p>Aug. 2025 – Present</p>
+        <p>Oct. 2025 – Present</p>
         <p>Research Intern</p>
       </div>
     </li>
